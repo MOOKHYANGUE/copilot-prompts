@@ -1,0 +1,92 @@
+Documento PRD para Apresentação
+Projeto: Plano de Carreira em Tecnologia para Juan
+Autor: Entrevistador de Carreira em Tecnologia
+Data: 23/02/2026
+
+1. Resumo Executivo
+Objetivo do documento: Apresentar, de forma estruturada e pronta para apresentação, o resultado da entrevista com o candidato Juan e as recomendações de carreira iniciais, além do plano de handoff para o especialista (Agent 2) que criará o plano de estudos.
+Contexto: Juan está em transição de carreira, começando do zero, com interesse em entender sistemas e trabalhar com dados, front-end e automação de dados. Trabalha atualmente como mecânico e pode dedicar 4 horas por semana aos estudos.
+
+2. Perfil do Usuário e Inputs Coletados
+Nome: Juan
+Nível atual: Começando do zero
+Horas disponíveis por semana: 4 horas
+Preferência diária: Dados
+Objetivo profissional: Transição de carreira
+Interesses técnicos: Desenvolvimento web; Front-end; Análise de dados; Automação de dados
+Experiência prévia aproveitável: Trabalho como mecânico (conhecimento de processos, lógica de manutenção, foco em eficiência)
+
+3. Problema e Oportunidade
+Problema: Juan precisa de um caminho claro e acionável para entrar no mercado de tecnologia com tempo de estudo limitado e sem experiência prévia formal na área.
+Oportunidade: Alinhar carreiras com alta demanda e caminhos de entrada (júnior/estágio) que aproveitem seu perfil analítico e experiência prática em processos industriais.
+
+4. Recomendação de Carreiras Prioritárias
+Critério de seleção: Afinidade com interesses; demanda de mercado; tempo até júnior; aproveitamento da experiência prévia.
+Top 3 carreiras sugeridas:
+*Analista de Dados — prioridade máxima; forte aderência a dados e automação; aproveita raciocínio analítico e experiência com processos.
+*Desenvolvedor Front-End — boa entrada para quem aprende rápido; foco em interfaces e web.
+*Engenheiro de Automação de Dados — combina automação e integração; bom encaixe com background industrial.
+
+5. Requisitos do Produto PRD para Apresentação
+5.1 Objetivos do Produto
+*Fornecer um documento claro e visualmente apresentável que resuma perfil, oportunidades e próximos passos.
+*Preparar informações para handoff imediato ao Agent 2 para criação do plano de estudos.
+
+5.2 Funcionalidades Principais do Documento
+*Capa e resumo executivo com objetivo e contexto.
+*Seção Perfil do Usuário com dados coletados (tabela resumida).
+*Análise de mercado com justificativa das 3 carreiras (curta e objetiva).
+*Recomendações de prioridade e motivos.
+*Handoff estruturado com campos exigidos para Agent 2.
+*Roadmap inicial com marcos e entregáveis para os próximos 6 meses.
+*Métricas de sucesso para avaliar progresso.
+
+5.3 Requisitos Não Funcionais
+*Documento em português, formato pronto para slides (estrutura por seções).
+*Linguagem objetiva e profissional, adequada para apresentação a mentor ou recrutador.
+*Tamanho ideal: 6 a 10 slides (ou equivalente em páginas).
+
+6. Roadmap e Marcos Recomendados
+*Fase 0 Preparação (Semana 0)
+Validar PRD e confirmar escolha de carreira com Juan.
+
+*Fase 1 Fundamentos (Semanas 1–12)
+Para Analista de Dados: SQL básico; Python para análise; Excel avançado; estatística básica.
+Para Front-End: HTML, CSS, JavaScript básico; projetos pequenos.
+Para Automação de Dados: conceitos de ETL; ferramentas de integração; lógica de scripts.
+
+*Fase 2 Portfólio e Experiência Prática (Semanas 13–24)
+Projetos práticos aplicando dados em processos (ex.: análise de eficiência de manutenção).
+Repositório Git com 2–3 projetos; perfil LinkedIn atualizado.
+
+*Fase 3 Aplicação e Networking (Semanas 25–36)
+Candidaturas a vagas júnior/estágio; participação em comunidades; preparação para entrevistas técnicas.
+
+7. Métricas de Sucesso
+*Aprendizado: completar 3 cursos básicos relevantes em 12 semanas.
+*Portfólio: 2 projetos públicos no GitHub em 24 semanas.
+*Oportunidade: candidatar-se a pelo menos 10 vagas júnior/estágio em 36 semanas.
+*Avaliação qualitativa: feedback de 2 mentores ou revisores técnicos sobre portfólio.
+
+8. Handoff para Agent 2
+Mensagem padrão para Agent 2:
+Encaminhando perfil para criação de plano de estudos personalizado.
+Dados a transferir:
+*Carreira escolhida: (a ser selecionada por Juan)
+*Horas disponíveis por semana: 4 horas
+*Nível de experiência: começando do zero
+*Objetivo: transição de carreira
+*Preferência: dados
+*Interesses técnicos: desenvolvimento web; front-end; análise de dados; automação de dados
+*Experiência prévia: mecânico (aproveitável para processos e otimização)
+
+9. Anexos e Materiais Sugeridos para Apresentação
+*Slide 1 Capa e resumo executivo
+*Slide 2 Perfil do usuário (tabela)
+*Slide 3 Top 3 carreiras com pontuação e motivos
+*Slide 4 Roadmap 9 meses (visual de marcos)
+*Slide 5 Métricas de sucesso e próximos passos
+*Slide 6 Handoff para Agent 2 e call to action
+
+Conclusão
+Documento pronto para ser transformado em slides. Se desejar, eu posso gerar o conteúdo slide a slide no corpo do texto para copiar e colar em um editor de apresentação.
